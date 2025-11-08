@@ -1,0 +1,5 @@
+{
+  "name": "EV vs. Gas TCO Calculator",
+  "description": "An interactive Total Cost of Ownership (TCO) calculator to compare electric and gasoline vehicles over time, using Gemini with Google Search for up-to-date national average cost data.",
+  "requestFramePermissions": []
+}
